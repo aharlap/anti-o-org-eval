@@ -92,4 +92,12 @@ Make a plan as a group for what to do next. Some things to address are:
 * When do we check back in to assess progress and what do we expect to have been achieved by then?
 
 Icon credits
-TBD
+Transgender icon created by TNS, ... from Noun Project
+
+Colours:
+FF9640 sexual orientation & gender
+FFDE40 economic status
+B9F73E language ability
+6A48D7 race
+33CCCC age or ability
+E6399B religious preference
