@@ -1,15 +1,22 @@
 ---
-title: Inclusion toolkit game
-author: Ariel Harlap, [http://arielharlap.com](http://arielharlap.com)
-date: Last updated April 23rd, 2016
-papersize: letter
+title: Inclusion toolkit
+author: Ariel Harlap
+Publishers: "[http://arielharlap.com](http://arielharlap.com)"
+date: April 23rd, 2016
 documentclass: scrartcl
-header-includes:
-    - \usepackage{fancyhdr}
-    - \pagestyle{fancy}
-    - \fancyhf{}
-    - \rhead{\bfseries\leftmark}
-    - \rfoot[RE,LO]{\thepage}
+
+# options if lettersized
+# papersize: letter
+# header-includes:
+#    - \usepackage{fancyhdr}
+#    - \pagestyle{fancy}
+#    - \fancyhf{}
+#    - \rhead{\bfseries\leftmark}
+#    - \rfoot[RE,LO]{\thepage}
+
+# options if tarot-card sized
+fontsize: 10pt
+geometry: paperwidth=3in, paperheight=5in, left=0.375in, right=0.375in, top=0.25in, bottom=0.25in
 ---
 
 # Inclusion toolkit / game
@@ -116,12 +123,14 @@ The game ends under the following conditions:
 
 See the section *After play*, below, for suggestions on how you can continue the process after wrapping up the game.
 
-### Things to keep in mind during play
+## Tips
+
+#### During play
 
 * Avoid problem-solving during the game. If it does come up, acknowledge and record possible solutions. It is will be easier and more useful to have those discussions after the game is over.
 * Avoid getting competitive. Vote for ideas not for players. If people get competitive, read them this guideline: Work as a team to make your organization more inclusive.
 
-### After play
+#### After play
 
 Make a plan as a group for what to do next. Key questions to address include:
 
@@ -130,22 +139,24 @@ Make a plan as a group for what to do next. Key questions to address include:
 3. What is a reasonable deadline for the working group to resolve or significantly improve the imperfect practice? 
 4. When do we check in as a group to assess progress? What do we expect to achieve by then?
 
+\footnotesize
+
 ## Acknowledgements
 
-I would like to acknowledge the inspirational work of staff at the Centre for Community Organizations (COCo-net.org) without whom this project likely would may never have been seeded.
+I would like to acknowledge the inspirational work of staff at the Centre for Community Organizations (COCo-net.org) for all the engaging discussions which inspired this project idea. I would also like to acknowledge the constructive criticism and expert input of Kira Page during the early phases of desigining the game.
 
 Additionally, the following resources served as foundational research material and insightful perspectives in designing the toolkit:
 
-* Inclusive Community Organizations: A Tool Kit, Ontario Healthy Communities Coalition, http://www.ohcc-ccso.ca/en/inclusive-community-organizations-a-tool-kit, last accessed April 2016.
-* Organizational Capacity Assessment for Community-Based Organizations, USAID, [https://www.usaid.gov/sites/default/files/documents/1864/](https://www.usaid.gov/sites/default/files/documents/1864/OCA%20Tool%20for%20Community%20Based%20Organizations.pdf) [OCA%20Tool%20for%20Community%20Based%20Organizations.pdf](https://www.usaid.gov/sites/default/files/documents/1864/OCA%20Tool%20for%20Community%20Based%20Organizations.pdf), August 2012, John Snow, Inc., last accessed April 2016.
+Inclusive Community Organizations: A Tool Kit, Ontario Healthy Communities Coalition, http://www.ohcc-ccso.ca/en/inclusive-community-organizations-a-tool-kit, last accessed April 2016.
+Organizational Capacity Assessment for Community-Based Organizations, USAID, [https://www.usaid.gov/sites/default/files/documents/1864/OCA%20Tool%20for%20Community%20Based%20Organizations.pdf](https://www.usaid.gov/sites/default/files/documents/1864/OCA%20Tool%20for%20Community%20Based%20Organizations.pdf), August 2012, John Snow, Inc., last accessed April 2016.
 
-I would also like to acknowledge the awesome input of Kira Page during the early phases of desigining the game.
+\tiny
+
+### Licence
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/]).
 
 ### Icon credits
 
 Characteristics card back icons adapted from icons by Andreas Wikström
 Transgender icon created by TNS; Young icon created by Yi Chen, Senior icon created by Milton Raposo C. Rêgo Jr.; Young adult icon created by Yi Chen; Married same-sex partner icon created by chris w; Bisexual icon created by André Luiz Gollo; Homosexual icon created by Sergey Demushkin; Heterosexual icon created by Sergey Demushkin; Indigenous icon (native american friendship symbol) adapted from icon created by Olaus Linn; Adult icon (fireworks) created by Juan Pablo Bravo; Illiteracy icon adapted from book icon, and paraplegic icon created by Creative Stall; Blind icon created by Dmitry Baranovskiy; Divorced icon created by Emily Haasch; Schizophrenia, depression and anxiety icons created by Kelcey Hurst; PTSD icon adapted from bomb / anxiety icons created by Edward Boatman / Kelcey Hurst, respectively; Alcoholic icon adapted from beer / anxiety icons created by Ivan / Kelcey Hurst, respectively; English icon created by Marie-Noëlle; Native-english speaker, non-english speaker and english second-language speaker icons adapted from icon created by Ilsur Aptukov; Upper-class, middle-class and lower-class icons created by Jens Tärning; Religion category (pray & hijab) icons created by Cristiano Zoucas; Motherhood icon created by Thomas Helbig, adapted for no children icon; Citizenship category icons adapted from migrant icon created by Luis Prado; High school dropout (Dropout) icon created by Musavvir Ahmed; Irrelevant professional (property dealer) icon created by Creative Stall; Volunteer icon created by Nick Bluth; Inexperienced CV icon adapted from Get a Job icon created by Guilherme Simoes; Suburban icon adapted from House icon created by James Fenton; Urban icon adapted from City icon created by Fabio Mittini; Rural icon adapted from Barn icon created by anbileru adaleru; Police Surveillance icon created by Dan Hetteix; Prisoner icon created by Luis Prado; Backpacker icon created by Universal Icons from Noun Project.
-
-## Licence
-
-This work is licensed under a (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License)[http://creativecommons.org/licenses/by-nc-sa/4.0/].

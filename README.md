@@ -26,5 +26,9 @@ The instructions are built using [pandoc](http://pandoc.org):
 
     pandoc instructions.md -o instructions.pdf --latex-enging=xelatex
 
+The YAML header block includes commented options for letter ouptut, default is tarot-sized booklet. It can be subsequently converted to png using imagemagick:
+
+    convert -density 300 -quality 85 instructions.pdf instructions.png 
+
 The cards are built using illustrator external files for variables and the Variable Importer from Silly-V, [https://github.com/Silly-V/Adobe-Illustrator/tree/master/Variable%20Importer](https://github.com/Silly-V/Adobe-Illustrator/tree/master/Variable%20Importer).
 An excellent tutorial is available at [http://hypertransitory.com/blog/2015/04/26/illustrator-variable-data/](http://hypertransitory.com/blog/2015/04/26/illustrator-variable-data/).
