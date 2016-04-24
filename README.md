@@ -23,3 +23,12 @@ In order for the checklist to stimulate useful answers and discussion, it does r
 * Be **permissive of mistakes** as it takes experience and openness to learn about difference.
 * Encourage **time-outs for constructive discussion** provided they are about personal experiences related to what was said, or reactions people want to share constructively.
 * If possible, involve people with different levels or domains of decisional power when using the toolkit as a group.
+
+# Building the deck
+
+The instructions are built using [pandoc](http://pandoc.org):
+
+    pandoc instructions.md -o instructions.pdf --latex-enging=xelatex
+
+The cards are built using illustrator external files for variables and the Variable Importer from Silly-V, [https://github.com/Silly-V/Adobe-Illustrator/tree/master/Variable%20Importer](https://github.com/Silly-V/Adobe-Illustrator/tree/master/Variable%20Importer).
+An excellent tutorial is available at [http://hypertransitory.com/blog/2015/04/26/illustrator-variable-data/](http://hypertransitory.com/blog/2015/04/26/illustrator-variable-data/).

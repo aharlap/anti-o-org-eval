@@ -1,103 +1,151 @@
-# Empathy deck for community organization policies
+---
+title: Inclusion toolkit game
+author: Ariel Harlap, [http://arielharlap.com](http://arielharlap.com)
+date: Last updated April 23rd, 2016
+papersize: letter
+documentclass: scrartcl
+header-includes:
+    - \usepackage{fancyhdr}
+    - \pagestyle{fancy}
+    - \fancyhf{}
+    - \rhead{\bfseries\leftmark}
+    - \rfoot[RE,LO]{\thepage}
+---
 
-## Purpose
+# Inclusion toolkit / game
 
-The purpose of this game is to provide a creative method for groups to challenge their policies, processes and organizational or group attributes from an anti-oppression framework. Players win by identifying the most potentially oppressive attributes, or the organization wins (but all players lose) if the majority of attributes brought up do not appear to disadvantage any of the personas.
+Requirements: Number of Players (3-7); Playing Time (Approximately 30 minutes); Age (12+).
 
-## Deck option 1
+## Objective
 
-Deck is composed of:
+This game can help you foster empathy and inclusion in your organization. Let it inspire you to review your policies and practices from an anti-oppression framework. Form a small group from your organization's board and staff. In subsequent games, include stakeholders from your community. As you dive in, remember that these are difficult conversations. So, be gentle and permissive of making mistakes. Take a timeout to address tensions should they arise. If you commit to working through challenging discussions as a group it will be the first step to creating a more inclusive organization and society.
 
-* headings
-* personas 
+## Components
 
-1. Write down several section headings from the self-eval checklist (e.g., mission, board, etc.) on an index card. There should be at least one section card per player.
-2. On another set of index cards, write down fictional personas to represent groups which may or may not benefit from policies or processes. Some example personas are provided which you can print out, and give them a name (link).
-Consider personas who may be marginalized based on gender, sexual orientation, race, economic status, language ability, religion preference, age and ability
-Diversity is commonly understood to include differences based on race; age; place of origin; religion; ancestry; Aboriginal status; skin colour; citizenship; sex; gender identity; sexual orientation; ethnic origin; disability/ability; marital, parental or family status; same-sex partnership status; creed; language; educational background; literacy level; geographic location; income level; cultural tradition; and work experience
+* Instruction booklet
+* 55 characteristic cards
+* 20 domain cards (2 of each)
+* 10? blank characteristic cards
 
-3. Set aside a piece of paper for keeping score and write down each players name as well as the organization name in a final column.
-4. Shuffle each set of index cards separately (sections and personas).
-5. Sit in a circle and randomly determine a starting player.
-6. Each player on their turn draws one card from the section stack and two cards from the persona stack. Then they think of one policy or process (hereafter called an attribute) currently in use in their group or organization and explain why it does or does not benefit each persona. If the attribute benefits one persona and does not benefit the other persona, the player scores a point and the organization loses a point. If both personas benefit, the organization gains three points and the player loses a point. If neither persona benefits, the player gains two points and the organization loses a point.
-7. Whenever the organization loses a point, make note of the attribute on a piece of paper. It will be used once the game is over.
-8. The player finishes their turn by shuffling the personas cards they took back into the persona stack but holds onto their section card until everyone has taken a turn this round.
-9. Play proceeds counter-clockwise around the circle.
-10. At the end of the round, all section cards are collected and the section stack is shuffled for the next round.
-11. First player to 10 points wins. If the organization scores 10 points before any player gets 10 points, everyone loses.
-12. Once the game is over, read over the list of attributes that were recorded during the game and take votes on which should get attention and reconsideration first. 
-13. Develop an action plan for addressing the attributes at the top of the list.
+## Description of cards
 
-## Deck option 2
+### Characteristic cards
 
-Desk is composed of cards for:
+>example image goes here
 
-* personas
-* characteristics of personas
-* domains of the organization
+Characteristic cards represent specific facets of fictional personas, which may cause a persona to be disadvantaged by an organizational practice or policy.
 
-### Setup
+### Domain cards
 
-1. Shuffle the persona cards and play two persona cards face up into the middle of the table.
-2. Shuffle the characteristics cards and play three characteristic cards next to each persona.
-3. Give each persona a name, write it on a sticky note, and read their characteristics aloud to the group.
-4. Shuffle the organizational domains cards and place them face down in the middle of the table.
-5. Shuffle the role cards and distribute one to each player, laying them face up in front of the player. Each player reads their role aloud and gathers the materials necessary to fulfill their role.
+>example image goes here
 
-### Play
+The organizational domain cards describe particular domains or aspects of an organization, with some suggestions on policies or practices to consider within these.
 
-The game proceeds clockwise by player rounds until all organizational domain cards have been played into the discard pile.
+* governance and leadership
+* finance, operations, administration
+* resource mobilization
+* human resources management
+* program management
+* communication
+* monitoring, evaluation reporting, and knowledge management
+* advocacy, networking, and alliance building
+* service delivery and quality assurance
+* coordination and collaboration
 
-Each player's round consists of three phases:
-1. Opening.
-2. Ideating.
-3. Finding consensus.
+### Blank characteristic cards
 
-#### Opening
+Create your own characteristic cards!
 
-The player opens the round by:
-1. Drawing an organizational domain card.
-2. Reading the card aloud to the group.
-3. Placing the card in the discard pile.
+## Setup
 
-#### Ideating
+To set up a game:
 
-During the *ideating* phase, each player gets a turn. The player who started the round, gets to go first and play proceeds clockwise during the phase. During the ideating phase, players can take any of the following actions during their turn:
-1. Pass.
-2. Ask for the played organizational card to be re-read aloud.
-3. Identify and share with the group an organizational practice, process, or policy which they think disadvantages one or both personas.
-4. If everyone passes, skip to the next *Finding consensus* phase and all players lose 2 points.
+1. Shuffle the characteristics cards and play two sets of four characterstics cards face-up into the middle of the table. Each group of cards form the a persona. If a persona has multiple characteristics of the same category (e.g., young age and senior age), replace the second card drawn with a new card from the characteristics deck. Set the characteristics cards aside, you won't need them for the rest of the game.
+2. Give each persona a name, write it on a sticky note, and read their characteristics aloud to the group.
+3. Shuffle the organizational domains cards. 
+4. Deal each player one domain card, face down.
+5. Place the remaining domain cards face down in the middle of the table as a draw pile.
 
-#### Finding Consensus
+#### Optionally, adding roles?
 
-Once each player has taken a turn during the *ideating* phase, each player gets to vote on the organizational practice, process or policy which they think most deserves the organization's attention in order to make it more equitable. Each player takes a turn voting, and the player whose share won the vote scores 1 point. In the event of a tie, the player who opened the round settles the tie with an extra vote.
+6. Shuffle the role cards.
+7. Deal each player one role card, face up. 
+8. Each player reads their role card aloud. Each player also gathers any materials necessary to fulfill their role.
 
-#### Documenting
+## How to Play
 
-The opening player completes the round by recording the imperfect organizational practice which was voted as most in need of the organization's attention. If for any reason the opening player is unable to do so, the player to their left records it for them. The player then reads what they recorded aloud and gives the group a chance to add clarifying language.
-The opening player has completed their round and play proceeds clockwise.
+The game is played in a series of rounds until all organizational domain cards are discarded.
+
+During each player's round, play the following phases:
+1. Opening
+2. Ideation
+3. Voting
+
+### Opening phase
+
+During the opening phase, the player will:
+1. Read their domain card aloud to the group.
+2. Place the domain card face up in the discard pile.
+
+### Ideation phase
+
+During the ideation phase, each player can perform any of the following actions:
+* Identify an organizational policy or process which disadvantages one or both personas.
+​* Ask for the domain card to be re-read aloud.
+* Pass your turn.
+ 
+If all players pass their turn, the group lose 2 points per player and the current round ends.
+
+### Voting phase
+
+Take turns voting for the least inclusive or most unjust process or policy. When voting, choose the policy or process which you feel most deserves your organization's attention to address the issue.
+The group scores a point for every process or policy which got at least two votes.
+
+### End of a Round
+
+The opening player, or a designated note-taker, jots down the process or policy which won the vote. Read the notes aloud so that everyone has a chance to add clarifying language.
+
+The opening player's round ends. Play proceeds clockwise.
+
+### End of the Game
+
+The game ends under the following conditions:
+
+* The group reaches 10 points; everyone wins!
+* A player abandons the game; stalemate!
+
+See the section *After play*, below, for suggestions on how you can continue the process after wrapping up the game.
 
 ### Things to keep in mind during play
 
-* Try to minimize problem-solving while playing the game and if it comes up, feel free to gently chime in with "bike rack!" or "bus seat!", signifying that the specific solutions should be parked in the bike rack or sat onto the bus seat in order to be discussed later. If someone does come up with an idea for a solution, acknowledge and record it, but remind the group that the purpose of the game is foremost to identify practices now and decide as a group which ones to tackle in the future as a group.
-* Votes are for the shared ideas not for the player. Make sure everyone understands that they are not competing but are playing together.
+* Avoid problem-solving during the game. If it does come up, acknowledge and record possible solutions. It is will be easier and more useful to have those discussions after the game is over.
+* Avoid getting competitive. Vote for ideas not for players. If people get competitive, read them this guideline: Work as a team to make your organization more inclusive.
 
 ### After play
 
-Make a plan as a group for what to do next. Some things to address are:
+Make a plan as a group for what to do next. Key questions to address include:
 
-* Who should be involved in coming up with improvements or alternatives to these imperfect practices? How do we get them involved in the discussion?
-* When can they start working on improvements?
-* What is a reasonable deadline for the working group to resolve or significantly improve the imperfect practice? 
-* When do we check back in to assess progress and what do we expect to have been achieved by then?
+1. Who do we involve in discussions on solutions to these imperfect practices? How can we involve them?
+2. When can they start working on improvements?
+3. What is a reasonable deadline for the working group to resolve or significantly improve the imperfect practice? 
+4. When do we check in as a group to assess progress? What do we expect to achieve by then?
 
-Icon credits
-Transgender icon created by TNS, ... from Noun Project
+## Acknowledgements
 
-Colours:
-FF9640 sexual orientation & gender
-FFDE40 economic status
-B9F73E language ability
-6A48D7 race
-33CCCC age or ability
-E6399B religious preference
+I would like to acknowledge the inspirational work of staff at the Centre for Community Organizations (COCo-net.org) without whom this project likely would may never have been seeded.
+
+Additionally, the following resources served as foundational research material and insightful perspectives in designing the toolkit:
+
+* Inclusive Community Organizations: A Tool Kit, Ontario Healthy Communities Coalition, http://www.ohcc-ccso.ca/en/inclusive-community-organizations-a-tool-kit, last accessed April 2016.
+* Organizational Capacity Assessment for Community-Based Organizations, USAID, [https://www.usaid.gov/sites/default/files/documents/1864/](https://www.usaid.gov/sites/default/files/documents/1864/OCA%20Tool%20for%20Community%20Based%20Organizations.pdf) [OCA%20Tool%20for%20Community%20Based%20Organizations.pdf](https://www.usaid.gov/sites/default/files/documents/1864/OCA%20Tool%20for%20Community%20Based%20Organizations.pdf), August 2012, John Snow, Inc., last accessed April 2016.
+
+I would also like to acknowledge the awesome input of Kira Page during the early phases of desigining the game.
+
+### Icon credits
+
+Characteristics card back icons adapted from icons by Andreas Wikström
+Transgender icon created by TNS; Young icon created by Yi Chen, Senior icon created by Milton Raposo C. Rêgo Jr.; Young adult icon created by Yi Chen; Married same-sex partner icon created by chris w; Bisexual icon created by André Luiz Gollo; Homosexual icon created by Sergey Demushkin; Heterosexual icon created by Sergey Demushkin; Indigenous icon (native american friendship symbol) adapted from icon created by Olaus Linn; Adult icon (fireworks) created by Juan Pablo Bravo; Illiteracy icon adapted from book icon, and paraplegic icon created by Creative Stall; Blind icon created by Dmitry Baranovskiy; Divorced icon created by Emily Haasch; Schizophrenia, depression and anxiety icons created by Kelcey Hurst; PTSD icon adapted from bomb / anxiety icons created by Edward Boatman / Kelcey Hurst, respectively; Alcoholic icon adapted from beer / anxiety icons created by Ivan / Kelcey Hurst, respectively; English icon created by Marie-Noëlle; Native-english speaker, non-english speaker and english second-language speaker icons adapted from icon created by Ilsur Aptukov; Upper-class, middle-class and lower-class icons created by Jens Tärning; Religion category (pray & hijab) icons created by Cristiano Zoucas; Motherhood icon created by Thomas Helbig, adapted for no children icon; Citizenship category icons adapted from migrant icon created by Luis Prado; High school dropout (Dropout) icon created by Musavvir Ahmed; Irrelevant professional (property dealer) icon created by Creative Stall; Volunteer icon created by Nick Bluth; Inexperienced CV icon adapted from Get a Job icon created by Guilherme Simoes; Suburban icon adapted from House icon created by James Fenton; Urban icon adapted from City icon created by Fabio Mittini; Rural icon adapted from Barn icon created by anbileru adaleru; Police Surveillance icon created by Dan Hetteix; Prisoner icon created by Luis Prado; Backpacker icon created by Universal Icons from Noun Project.
+
+## Licence
+
+This work is licensed under a (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License)[http://creativecommons.org/licenses/by-nc-sa/4.0/].
