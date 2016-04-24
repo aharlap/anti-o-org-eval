@@ -5,10 +5,6 @@ This is a tool for community organizations and groups to self-evaluate their pra
 1. Who benefits from this?
 2. Who does not benefit from this? Or benefits differently?
 
-## Trust, first
-
-In order for the checklist to stimulate useful answers and discussion, it does require that there be trust and safety among the group.
-
 ## Why use this?
 
 - It can spark discussions in your group by providing tangible starting points.
