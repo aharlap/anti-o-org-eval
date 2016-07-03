@@ -1,13 +1,10 @@
-# Inlcusion toolkit
+# Inlcusion toolkit game
 
-This is a tool for community organizations and groups to self-evaluate their practices from the perspective of an anti-oppression framework. The evaluation takes the form of a checklist (eventually, it will be interactive). The guiding principle in choosing and framing the list items are to help reveal possible inequities with the following two questions:
-
-1. Who benefits from this?
-2. Who does not benefit from this? Or benefits differently?
+This is a game which may serve as a tool for fostering empathy and anti-oppressive practice. It is intended for community organizations and work groups to self-evaluate their practices from the perspective of an anti-oppression framework.
 
 ## Why use this?
 
-- It can spark discussions in your group by providing tangible starting points.
+- It can spark discussions in your group by providing starting points for improvement.
 - Using this as a group may overcome one of the key challenges to initiating change: gaining a collective awareness of current needs.
 - It can simply be a learning experience if you are unfamiliar or still learning about the anti-oppression framework.
 - It's free, costs you only as much time and effort as you are willing to invest into it.
@@ -20,11 +17,16 @@ This is a tool for community organizations and groups to self-evaluate their pra
 * Encourage **time-outs for constructive discussion** provided they are about personal experiences related to what was said, or reactions people want to share constructively.
 * If possible, involve people with different levels or domains of decisional power when using the toolkit as a group.
 
+## Getting practical
+
+* Print the instructions.pdf file.
+* Print the png files in the folder 'cards' and cut them out. They are formatted as poker-sized cards.
+
 # Building the deck
 
 The instructions are built using [pandoc](http://pandoc.org):
 
-    pandoc instructions.md -o instructions.pdf --latex-enging=xelatex
+    pandoc instructions.md -o instructions.pdf --latex-engine=xelatex
 
 The YAML header block includes commented options for letter ouptut, default is tarot-sized booklet. It can be subsequently converted to png using imagemagick:
 
